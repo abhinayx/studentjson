@@ -1,9 +1,22 @@
 { 
-"Student": {
+"Student1": {
    "name":"rajiv",
    "rollNumber":"KV2017-5A2",
    "Maths":"18",
    "English":"21",
    "Science":"45"
            }
-}
+"Student2": {
+   "name":"abhishek",
+   "rollNumber":"KV2017-5A1",
+   "Maths":"43",
+   "English":"30",
+   "Science":"37"
+           }
+"Student3": {
+   "name":"zoya",
+   "rollNumber":"KV2017-5A3",
+   "Maths":"42",
+   "English":"31",
+   "Science":"50"
+           }
