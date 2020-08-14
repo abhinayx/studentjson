@@ -1,12 +1,9 @@
 { 
 "Student": {
    "name":"rajiv",
-   "rollNumber":"KV2017-5A2"
-   "marks":{
+   "rollNumber":"KV2017-5A2",
    "Maths":"18",
    "English":"21",
    "Science":"45"
-        }
-}
-
+           }
 }
